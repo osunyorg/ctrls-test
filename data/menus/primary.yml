@@ -3,4 +3,8 @@
   target: "/presentation-du-projet/"
   kind: page
   children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
 
