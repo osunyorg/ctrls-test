@@ -5,8 +5,10 @@ items:
   target: "/presentation-du-projet/"
   kind: page
   children: []
+  file: content/fr/pages/presentation-du-projet/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 
