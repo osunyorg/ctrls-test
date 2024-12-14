@@ -5,10 +5,12 @@ items:
   target: "/presentation-du-projet/"
   kind: page
   children: []
+  path: "/pages/presentation-du-projet"
   file: content/fr/pages/presentation-du-projet/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 
