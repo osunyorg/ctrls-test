@@ -5,7 +5,28 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: Le Design Lab
+    target: "/le-design-lab/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/le-design-lab"
+    file: content/fr/pages/le-design-lab/_index.html
+  - title: Nos convictions
+    target: "/nos-convictions/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/nos-convictions"
+    file: content/fr/pages/nos-convictions/_index.html
+  - title: Nos missions
+    target: "/nos-missions/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/nos-missions"
+    file: content/fr/pages/nos-missions/_index.html
 - title: Démarches
   target: ''
   kind: blank
