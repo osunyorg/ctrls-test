@@ -1,6 +1,11 @@
 ---
 title: Primary
 items:
+- title: À propos
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 - title: Démarches
   target: ''
   kind: blank
@@ -39,13 +44,6 @@ items:
     children: []
     path: "/pages/ressources/indicateurs"
     file: content/fr/pages/ressources/indicateurs/_index.html
-  - title: Méthodes
-    target: "/ressources/les-methodes/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/ressources/les-methodes"
-    file: content/fr/pages/ressources/les-methodes/_index.html
   - title: Formations
     target: "/ressources/formations/"
     kind: page
@@ -53,27 +51,46 @@ items:
     children: []
     path: "/pages/ressources/formations"
     file: content/fr/pages/ressources/formations/_index.html
-  path: "/pages/ressources"
-  file: content/fr/pages/ressources/_index.html
-- title: Événements
-  target: "/decouvrir-lecosysteme/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/fr/events/_index.html
-- title: Communauté
-  target: "/decouvrir-lecosysteme/equipe/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
+  - title: Méthodes
+    target: "/ressources/les-methodes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/ressources/les-methodes"
+    file: content/fr/pages/ressources/les-methodes/_index.html
 - title: Écosystème
-  target: "/decouvrir-lecosysteme/organisations/"
-  kind: page
+  target: ''
+  kind: blank
   new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
+  children:
+  - title: Actualités
+    target: "/decouvrir-lecosysteme/actualites/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/posts"
+    file: content/fr/posts/_index.html
+  - title: Événements
+    target: "/decouvrir-lecosysteme/agenda/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/events"
+    file: content/fr/events/_index.html
+  - title: Communauté
+    target: "/decouvrir-lecosysteme/equipe/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/persons"
+    file: content/fr/persons/_index.html
+  - title: Organisations
+    target: "/decouvrir-lecosysteme/organisations/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/organizations"
+    file: content/fr/organizations/_index.html
+  path: "/pages/decouvrir-lecosysteme"
+  file: content/fr/pages/decouvrir-lecosysteme/_index.html
 
