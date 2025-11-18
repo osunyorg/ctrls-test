@@ -22,7 +22,21 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Répertoire
+- title: Ressources
+  target: "/ressources/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/ressources"
+  file: content/fr/pages/ressources/_index.html
+- title: Événements
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/fr/events/_index.html
+- title: Communauté
   target: "/equipe/"
   kind: page
   new_tab: false
@@ -36,11 +50,4 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Ressources
-  target: "/ressources/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/ressources"
-  file: content/fr/pages/ressources/_index.html
 
