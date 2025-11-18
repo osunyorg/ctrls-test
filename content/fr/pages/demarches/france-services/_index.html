@@ -8,7 +8,7 @@ bodyclass: >-
 url: "/demarches/france-services/"
 slug: "france-services"
 date: 2025-11-17T18:30:49+01:00
-lastmod: 2025-11-18T11:12:16+01:00
+lastmod: 2025-11-18T12:00:07+01:00
 meta:
   hugo:
     permalink: "/demarches/france-services/"
@@ -17,7 +17,7 @@ meta:
     slug: "france-services"
   dates:
     created_at: 2025-11-17T18:30:49+01:00
-    updated_at: 2025-11-18T11:12:16+01:00
+    updated_at: 2025-11-18T12:00:07+01:00
     published_at: 2025-11-17T18:30:49+01:00
 search:
   id: "c282190e-8354-4842-90d4-5ea97f70d5b7"
@@ -37,7 +37,7 @@ breadcrumbs:
       Accueil
     path: "/"
   - title: >-
-      Démarches
+      Connaître les démarches
     path: "/demarches/"
   - title: >-
       France Services
@@ -52,20 +52,15 @@ design:
 position: 1
 weight: 1
 pages_categories:
-  - "usagers/autonomie-administrative-faible"
-  - "usagers/autonomie-numerique-faible"
-  - "usagers/grand-public"
-  - "usagers/professionnels"
-  - "usagers/publics-precaires-et-eloignes-des-services-publics"
-  - "usagers/enfants-et-jeunes"
-  - "usagers/personnes-agees"
+  - "autonomie-administrative/autonomie-administrative-faible"
+  - "autonomie-administrative/autonomie-numerique-faible"
+  - "modalites/avec-rdv"
+  - "modalites/sans-rdv"
   - "modalites/presentiel"
   - "modalites/en-ligne"
   - "modalites/hybride-presentiel-et-en-ligne"
-  - "modalites/sans-rdv"
-  - "modalites/avec-rdv"
-  - "modalites/sans-mediation"
   - "modalites/avec-mediation"
+  - "modalites/sans-mediation"
   - "structure/en-propre"
   - "structure/integree"
   - "structure/association"
@@ -75,60 +70,76 @@ pages_categories:
   - "structure/prefecture"
   - "structure/fixe"
   - "structure/itinerante"
+  - "publics/enfants-et-jeunes"
+  - "publics/personnes-agees"
+  - "publics/professionnels"
+  - "publics/publics-precaires-et-eloignes-des-services-publics"
 taxonomies:
   - name: >-
-      Usagers
-    slug: "usagers"
-    path: "/pages_categories/usagers"
+      Catégories
+    slug: ""
+    path: ""
     categories:
-      - permalink: "/usagers/autonomie-administrative-faible/"
-        path: "/pages_categories/usagers/autonomie-administrative-faible"
-        slug: "usagers/autonomie-administrative-faible"
-        file: "content/fr/pages_categories/usagers/autonomie-administrative-faible/_index.html"
-        name: >-
-          Autonomie administrative faible
-      - permalink: "/usagers/autonomie-numerique-faible/"
-        path: "/pages_categories/usagers/autonomie-numerique-faible"
-        slug: "usagers/autonomie-numerique-faible"
-        file: "content/fr/pages_categories/usagers/autonomie-numerique-faible/_index.html"
-        name: >-
-          Autonomie numérique faible
-      - permalink: "/usagers/grand-public/"
-        path: "/pages_categories/usagers/grand-public"
-        slug: "usagers/grand-public"
-        file: "content/fr/pages_categories/usagers/grand-public/_index.html"
-        name: >-
-          Grand public
-      - permalink: "/usagers/professionnels/"
-        path: "/pages_categories/usagers/professionnels"
-        slug: "usagers/professionnels"
-        file: "content/fr/pages_categories/usagers/professionnels/_index.html"
-        name: >-
-          Professionnels
-      - permalink: "/usagers/publics-precaires-et-eloignes-des-services-publics/"
-        path: "/pages_categories/usagers/publics-precaires-et-eloignes-des-services-publics"
-        slug: "usagers/publics-precaires-et-eloignes-des-services-publics"
-        file: "content/fr/pages_categories/usagers/publics-precaires-et-eloignes-des-services-publics/_index.html"
-        name: >-
-          Publics précaires et éloignés des services publics
-      - permalink: "/usagers/enfants-et-jeunes/"
-        path: "/pages_categories/usagers/enfants-et-jeunes"
-        slug: "usagers/enfants-et-jeunes"
-        file: "content/fr/pages_categories/usagers/enfants-et-jeunes/_index.html"
+      - permalink: "/publics/enfants-et-jeunes/"
+        path: "/pages_categories/publics/enfants-et-jeunes"
+        slug: "publics/enfants-et-jeunes"
+        file: "content/fr/pages_categories/publics/enfants-et-jeunes/_index.html"
         name: >-
           Enfants et jeunes
-      - permalink: "/usagers/personnes-agees/"
-        path: "/pages_categories/usagers/personnes-agees"
-        slug: "usagers/personnes-agees"
-        file: "content/fr/pages_categories/usagers/personnes-agees/_index.html"
+      - permalink: "/publics/personnes-agees/"
+        path: "/pages_categories/publics/personnes-agees"
+        slug: "publics/personnes-agees"
+        file: "content/fr/pages_categories/publics/personnes-agees/_index.html"
         name: >-
           Personnes âgées
+      - permalink: "/publics/professionnels/"
+        path: "/pages_categories/publics/professionnels"
+        slug: "publics/professionnels"
+        file: "content/fr/pages_categories/publics/professionnels/_index.html"
+        name: >-
+          Professionnels
+      - permalink: "/publics/publics-precaires-et-eloignes-des-services-publics/"
+        path: "/pages_categories/publics/publics-precaires-et-eloignes-des-services-publics"
+        slug: "publics/publics-precaires-et-eloignes-des-services-publics"
+        file: "content/fr/pages_categories/publics/publics-precaires-et-eloignes-des-services-publics/_index.html"
+        name: >-
+          Publics précaires et éloignés des services publics
+
+  - name: >-
+      Autonomie administrative
+    slug: "autonomie-administrative"
+    path: "/pages_categories/autonomie-administrative"
+    categories:
+      - permalink: "/usagers/autonomie-administrative-faible/"
+        path: "/pages_categories/autonomie-administrative/autonomie-administrative-faible"
+        slug: "autonomie-administrative/autonomie-administrative-faible"
+        file: "content/fr/pages_categories/autonomie-administrative/autonomie-administrative-faible/_index.html"
+        name: >-
+          Autonomie administrative faible
+      - permalink: "/autonomie-administrative/autonomie-numerique-faible/"
+        path: "/pages_categories/autonomie-administrative/autonomie-numerique-faible"
+        slug: "autonomie-administrative/autonomie-numerique-faible"
+        file: "content/fr/pages_categories/autonomie-administrative/autonomie-numerique-faible/_index.html"
+        name: >-
+          Autonomie numérique faible
 
   - name: >-
       Modalités
     slug: "modalites"
     path: "/pages_categories/modalites"
     categories:
+      - permalink: "/modalites/avec-rdv/"
+        path: "/pages_categories/modalites/avec-rdv"
+        slug: "modalites/avec-rdv"
+        file: "content/fr/pages_categories/modalites/avec-rdv/_index.html"
+        name: >-
+          Avec RDV
+      - permalink: "/modalites/sans-rdv/"
+        path: "/pages_categories/modalites/sans-rdv"
+        slug: "modalites/sans-rdv"
+        file: "content/fr/pages_categories/modalites/sans-rdv/_index.html"
+        name: >-
+          Sans RDV
       - permalink: "/modalites/presentiel/"
         path: "/pages_categories/modalites/presentiel"
         slug: "modalites/presentiel"
@@ -147,33 +158,21 @@ taxonomies:
         file: "content/fr/pages_categories/modalites/hybride-presentiel-et-en-ligne/_index.html"
         name: >-
           Hybride (présentiel et en ligne)
-      - permalink: "/modalites/sans-rdv/"
-        path: "/pages_categories/modalites/sans-rdv"
-        slug: "modalites/sans-rdv"
-        file: "content/fr/pages_categories/modalites/sans-rdv/_index.html"
-        name: >-
-          Sans RDV
-      - permalink: "/modalites/avec-rdv/"
-        path: "/pages_categories/modalites/avec-rdv"
-        slug: "modalites/avec-rdv"
-        file: "content/fr/pages_categories/modalites/avec-rdv/_index.html"
-        name: >-
-          Avec RDV
-      - permalink: "/modalites/sans-mediation/"
-        path: "/pages_categories/modalites/sans-mediation"
-        slug: "modalites/sans-mediation"
-        file: "content/fr/pages_categories/modalites/sans-mediation/_index.html"
-        name: >-
-          Sans médiation
       - permalink: "/modalites/avec-mediation/"
         path: "/pages_categories/modalites/avec-mediation"
         slug: "modalites/avec-mediation"
         file: "content/fr/pages_categories/modalites/avec-mediation/_index.html"
         name: >-
           Avec médiation
+      - permalink: "/modalites/sans-mediation/"
+        path: "/pages_categories/modalites/sans-mediation"
+        slug: "modalites/sans-mediation"
+        file: "content/fr/pages_categories/modalites/sans-mediation/_index.html"
+        name: >-
+          Sans médiation
 
   - name: >-
-      Structure
+      Structure-save
     slug: "structure"
     path: "/pages_categories/structure"
     categories:
