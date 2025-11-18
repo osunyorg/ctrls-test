@@ -1,13 +1,6 @@
 ---
 title: Primary
 items:
-- title: Démarches
-  target: "/demarches/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/demarches"
-  file: content/fr/pages/demarches/_index.html
 - title: Indicateurs
   target: "/indicateurs/"
   kind: page
@@ -50,4 +43,23 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Démarches
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Liste des démarches
+    target: "/demarches/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/demarches"
+    file: content/fr/pages/demarches/_index.html
+  - title: Les démarches par catégorie
+    target: "/demarches-1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/demarches-1"
+    file: content/fr/pages/demarches-1/_index.html
 
