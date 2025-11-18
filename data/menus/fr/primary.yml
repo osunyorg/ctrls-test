@@ -1,13 +1,25 @@
 ---
 title: Primary
 items:
-- title: Indicateurs
-  target: "/indicateurs/"
-  kind: page
+- title: Démarches
+  target: ''
+  kind: blank
   new_tab: false
-  children: []
-  path: "/pages/indicateurs"
-  file: content/fr/pages/indicateurs/_index.html
+  children:
+  - title: Liste des démarches
+    target: "/demarches/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/demarches"
+    file: content/fr/pages/demarches/_index.html
+  - title: Les démarches par catégorie
+    target: "/demarches-1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/demarches-1"
+    file: content/fr/pages/demarches-1/_index.html
 - title: Projets
   target: "/projets/"
   kind: page
@@ -16,10 +28,31 @@ items:
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Ressources
-  target: "/ressources/"
-  kind: page
+  target: ''
+  kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: Indicateurs
+    target: "/ressources/indicateurs/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/ressources/indicateurs"
+    file: content/fr/pages/ressources/indicateurs/_index.html
+  - title: Méthodes
+    target: "/ressources/les-methodes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/ressources/les-methodes"
+    file: content/fr/pages/ressources/les-methodes/_index.html
+  - title: Formations
+    target: "/ressources/formations/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/ressources/formations"
+    file: content/fr/pages/ressources/formations/_index.html
   path: "/pages/ressources"
   file: content/fr/pages/ressources/_index.html
 - title: Événements
@@ -43,23 +76,4 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Démarches
-  target: ''
-  kind: blank
-  new_tab: false
-  children:
-  - title: Liste des démarches
-    target: "/demarches/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/demarches"
-    file: content/fr/pages/demarches/_index.html
-  - title: Les démarches par catégorie
-    target: "/demarches-1/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/demarches-1"
-    file: content/fr/pages/demarches-1/_index.html
 
