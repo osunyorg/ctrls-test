@@ -56,21 +56,21 @@ items:
   path: "/pages/ressources"
   file: content/fr/pages/ressources/_index.html
 - title: Événements
-  target: "/agenda/"
+  target: "/decouvrir-lecosysteme/agenda/"
   kind: page
   new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Communauté
-  target: "/equipe/"
+  target: "/decouvrir-lecosysteme/equipe/"
   kind: page
   new_tab: false
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Écosystème
-  target: "/organisations/"
+  target: "/decouvrir-lecosysteme/organisations/"
   kind: page
   new_tab: false
   children: []
