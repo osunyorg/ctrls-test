@@ -52,8 +52,8 @@ design:
 position: 1
 weight: 1
 pages_categories:
-  - "autonomie-administrative/autonomie-administrative-faible"
-  - "autonomie-administrative/autonomie-numerique-faible"
+  - "autonomie-administrative-aa/autonomie-administrative-faible"
+  - "autonomie-numerique-an/autonomie-numerique-faible"
   - "modalites/avec-rdv"
   - "modalites/sans-rdv"
   - "modalites/presentiel"
@@ -61,6 +61,10 @@ pages_categories:
   - "modalites/hybride-presentiel-et-en-ligne"
   - "modalites/avec-mediation"
   - "modalites/sans-mediation"
+  - "publics/enfants-et-jeunes"
+  - "publics/personnes-agees"
+  - "publics/professionnels"
+  - "publics/publics-precaires-et-eloignes-des-services-publics"
   - "structure/en-propre"
   - "structure/integree"
   - "structure/association"
@@ -70,16 +74,18 @@ pages_categories:
   - "structure/prefecture"
   - "structure/fixe"
   - "structure/itinerante"
-  - "publics/enfants-et-jeunes"
-  - "publics/personnes-agees"
-  - "publics/professionnels"
-  - "publics/publics-precaires-et-eloignes-des-services-publics"
 taxonomies:
   - name: >-
       Catégories
     slug: ""
     path: ""
     categories:
+      - permalink: "/autonomie-numerique-an/autonomie-numerique-faible/"
+        path: "/pages_categories/autonomie-numerique-an/autonomie-numerique-faible"
+        slug: "autonomie-numerique-an/autonomie-numerique-faible"
+        file: "content/fr/pages_categories/autonomie-numerique-an/autonomie-numerique-faible/_index.html"
+        name: >-
+          AN faible
       - permalink: "/publics/enfants-et-jeunes/"
         path: "/pages_categories/publics/enfants-et-jeunes"
         slug: "publics/enfants-et-jeunes"
@@ -106,22 +112,16 @@ taxonomies:
           Publics précaires et éloignés des services publics
 
   - name: >-
-      Autonomie administrative
-    slug: "autonomie-administrative"
-    path: "/pages_categories/autonomie-administrative"
+      Autonomie administrative (AA)
+    slug: "autonomie-administrative-aa"
+    path: "/pages_categories/autonomie-administrative-aa"
     categories:
-      - permalink: "/usagers/autonomie-administrative-faible/"
-        path: "/pages_categories/autonomie-administrative/autonomie-administrative-faible"
-        slug: "autonomie-administrative/autonomie-administrative-faible"
-        file: "content/fr/pages_categories/autonomie-administrative/autonomie-administrative-faible/_index.html"
+      - permalink: "/autonomie-administrative-aa/autonomie-administrative-faible/"
+        path: "/pages_categories/autonomie-administrative-aa/autonomie-administrative-faible"
+        slug: "autonomie-administrative-aa/autonomie-administrative-faible"
+        file: "content/fr/pages_categories/autonomie-administrative-aa/autonomie-administrative-faible/_index.html"
         name: >-
-          Autonomie administrative faible
-      - permalink: "/autonomie-administrative/autonomie-numerique-faible/"
-        path: "/pages_categories/autonomie-administrative/autonomie-numerique-faible"
-        slug: "autonomie-administrative/autonomie-numerique-faible"
-        file: "content/fr/pages_categories/autonomie-administrative/autonomie-numerique-faible/_index.html"
-        name: >-
-          Autonomie numérique faible
+          AA faible
 
   - name: >-
       Modalités
