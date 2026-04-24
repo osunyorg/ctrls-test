@@ -15,306 +15,306 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/usagers/personnes-agees/index.html"
+from = "/usagers/personnes-agees/"
 to = "/publics/personnes-agees/"
 
 [[redirects]]
-from = "/geographie/rural/index.html"
+from = "/geographie/rural/"
 to = "/milieu/rural/"
 
 [[redirects]]
-from = "/agenda/2025/12/index.html"
+from = "/agenda/2025/12/"
 to = "/decouvrir-lecosysteme/agenda/2025/12/"
 
 [[redirects]]
-from = "/equipe/romane-clement/index.html"
+from = "/equipe/romane-clement/"
 to = "/decouvrir-lecosysteme/equipe/romane-clement/"
 
 [[redirects]]
-from = "/usagers/enfants-et-jeunes/index.html"
+from = "/usagers/enfants-et-jeunes/"
 to = "/publics/enfants-et-jeunes/"
 
 [[redirects]]
-from = "/ressources/indicateurs/innovation-dans-les-usages/index.html"
+from = "/ressources/indicateurs/innovation-dans-les-usages/"
 to = "/ressources/indicateurs/innovation-dinteret-general/innovation-dans-les-usages/"
 
 [[redirects]]
-from = "/activite/index.html"
+from = "/activite/"
 to = "/modalites/"
 
 [[redirects]]
-from = "/autonomie-administrative/index.html"
+from = "/autonomie-administrative/"
 to = "/autonomie-administrative-aa/"
 
 [[redirects]]
-from = "/usagers/parentalite/index.html"
+from = "/usagers/parentalite/"
 to = "/publics/parentalite/"
 
 [[redirects]]
-from = "/publics/autonomie-numerique-faible/index.html"
+from = "/publics/autonomie-numerique-faible/"
 to = "/autonomie-numerique-an/an-faible/"
 
 [[redirects]]
-from = "/ressources/les-methodes/audit/index.html"
+from = "/ressources/les-methodes/audit/"
 to = "/ressources/les-methodes/les-outils-de-mise-en-oeuvre/audit/"
 
 [[redirects]]
-from = "/ressources/indicateurs/innovation-dans-les-usages/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/index.html"
+from = "/ressources/indicateurs/innovation-dans-les-usages/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/"
 to = "/ressources/indicateurs/innovation-dinteret-general/innovation-dans-les-usages/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/"
 
 [[redirects]]
-from = "/geographie/index.html"
+from = "/geographie/"
 to = "/milieu/"
 
 [[redirects]]
-from = "/audit/index.html"
+from = "/audit/"
 to = "/ressources/les-methodes/les-outils-de-mise-en-oeuvre/audit/"
 
 [[redirects]]
-from = "/ressources/les-methodes/atelier-retex/index.html"
+from = "/ressources/les-methodes/atelier-retex/"
 to = "/ressources/les-methodes/les-outils-de-mise-en-oeuvre/atelier-retex/"
 
 [[redirects]]
-from = "/usagers/autonomie-administrative-faible/index.html"
+from = "/usagers/autonomie-administrative-faible/"
 to = "/autonomie-administrative-aa/aa-faible/"
 
 [[redirects]]
-from = "/usagers/tout-type-de-revenus/index.html"
+from = "/usagers/tout-type-de-revenus/"
 to = "/publics/tout-type-de-revenus/"
 
 [[redirects]]
-from = "/structure/mairie/index.html"
+from = "/structure/mairie/"
 to = "/structures/mairie/"
 
 [[redirects]]
-from = "/ressources/indicateurs/usages-et-utilisations-du-service-par-lagent/perception-subjective/index.html"
+from = "/ressources/indicateurs/usages-et-utilisations-du-service-par-lagent/perception-subjective/"
 to = "/ressources/indicateurs/utilite/perception-subjective/"
 
 [[redirects]]
-from = "/structures/antenne-france-services/index.html"
+from = "/structures/antenne-france-services/"
 to = "/structures/antenne/"
 
 [[redirects]]
-from = "/activite/hybride-presentiel-et-en-ligne/index.html"
+from = "/activite/hybride-presentiel-et-en-ligne/"
 to = "/modalites/hybride-presentiel-et-en-ligne/"
 
 [[redirects]]
-from = "/autonomie-administrative-aa/autonomie-administrative-faible/index.html"
+from = "/autonomie-administrative-aa/autonomie-administrative-faible/"
 to = "/autonomie-administrative-aa/aa-faible/"
 
 [[redirects]]
-from = "/ressources/indicateurs/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/index.html"
+from = "/ressources/indicateurs/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/"
 to = "/ressources/indicateurs/innovation-dinteret-general/innovation-dans-les-usages/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/"
 
 [[redirects]]
-from = "/adequation-avec-les-objectifs-de-politiques-publiques/index.html"
+from = "/adequation-avec-les-objectifs-de-politiques-publiques/"
 to = "/familles-dindicateurs/adequation-avec-les-objectifs-de-politiques-publiques/"
 
 [[redirects]]
-from = "/usagers/revenus-modestes-a-tres-modestes/index.html"
+from = "/usagers/revenus-modestes-a-tres-modestes/"
 to = "/publics/revenus-modestes-a-tres-modestes/"
 
 [[redirects]]
-from = "/activite/presentiel/index.html"
+from = "/activite/presentiel/"
 to = "/modalites/presentiel/"
 
 [[redirects]]
-from = "/ressources/indicateurs/usages-et-utilisations-du-service-par-lagent/index.html"
+from = "/ressources/indicateurs/usages-et-utilisations-du-service-par-lagent/"
 to = "/ressources/indicateurs/utilite/"
 
 [[redirects]]
-from = "/equipe/florian-guillanton/index.html"
+from = "/equipe/florian-guillanton/"
 to = "/decouvrir-lecosysteme/equipe/florian-guillanton/"
 
 [[redirects]]
-from = "/demarches/aide-sociale-a-lenfance-ase/france-services-actualisation-rsa-2/index.html"
+from = "/demarches/aide-sociale-a-lenfance-ase/france-services-actualisation-rsa-2/"
 to = "/demarches/aide-sociale-a-lenfance-ase/ase-prevention-1/"
 
 [[redirects]]
-from = "/structure/prefecture/index.html"
+from = "/structure/prefecture/"
 to = "/structures/prefecture/"
 
 [[redirects]]
-from = "/demarches/demarches-1/index.html"
+from = "/demarches/demarches-1/"
 to = "/demarches-1/"
 
 [[redirects]]
-from = "/structure/maison-france-services/index.html"
+from = "/structure/maison-france-services/"
 to = "/structures/fixe/"
 
 [[redirects]]
-from = "/publics-precaires-et-eloignes-des-services-publics/index.html"
+from = "/publics-precaires-et-eloignes-des-services-publics/"
 to = "/publics/publics-precaires-et-eloignes-des-services-publics/"
 
 [[redirects]]
-from = "/autonomie-numerique-an/autonomie-numerique-faible/index.html"
+from = "/autonomie-numerique-an/autonomie-numerique-faible/"
 to = "/autonomie-numerique-an/an-faible/"
 
 [[redirects]]
-from = "/usagers/proprietaires-occupants/index.html"
+from = "/usagers/proprietaires-occupants/"
 to = "/publics/proprietaires-occupants/"
 
 [[redirects]]
-from = "/activite/avec-rdv/index.html"
+from = "/activite/avec-rdv/"
 to = "/modalites/avec-rdv/"
 
 [[redirects]]
-from = "/atelier-retex/index.html"
+from = "/atelier-retex/"
 to = "/ressources/les-methodes/les-outils-de-mise-en-oeuvre/atelier-retex/"
 
 [[redirects]]
-from = "/activite/sans-rdv/index.html"
+from = "/activite/sans-rdv/"
 to = "/modalites/sans-rdv/"
 
 [[redirects]]
-from = "/agenda/2025/cycle-territoires-et-mobilites-2025-de-lihedate/index.html"
+from = "/agenda/2025/cycle-territoires-et-mobilites-2025-de-lihedate/"
 to = "/decouvrir-lecosysteme/agenda/2025/cycle-territoires-et-mobilites-2025-de-lihedate/"
 
 [[redirects]]
-from = "/indicateurs/index.html"
+from = "/indicateurs/"
 to = "/ressources/indicateurs/"
 
 [[redirects]]
-from = "/usagers/proprietaires-bailleurs/index.html"
+from = "/usagers/proprietaires-bailleurs/"
 to = "/publics/proprietaires-bailleurs/"
 
 [[redirects]]
-from = "/autonomie-administrative-faible/index.html"
+from = "/autonomie-administrative-faible/"
 to = "/autonomie-administrative-aa/aa-faible/"
 
 [[redirects]]
-from = "/agenda/2025/index.html"
+from = "/agenda/2025/"
 to = "/decouvrir-lecosysteme/agenda/2025/"
 
 [[redirects]]
-from = "/usagers/autonomie-numerique-faible/index.html"
+from = "/usagers/autonomie-numerique-faible/"
 to = "/autonomie-numerique-an/an-faible/"
 
 [[redirects]]
-from = "/publics/autonomie-administrative-faible/index.html"
+from = "/publics/autonomie-administrative-faible/"
 to = "/autonomie-administrative-aa/aa-faible/"
 
 [[redirects]]
-from = "/actualites/2022/10/11/lancement-du-lab/index.html"
+from = "/actualites/2022/10/11/lancement-du-lab/"
 to = "/decouvrir-lecosysteme/actualites/2022-10-11-lancement-du-lab/"
 
 [[redirects]]
-from = "/structure/ccas/index.html"
+from = "/structure/ccas/"
 to = "/structures/ccas/"
 
 [[redirects]]
-from = "/structure/index.html"
+from = "/structure/"
 to = "/structures/"
 
 [[redirects]]
-from = "/structure/la-poste/index.html"
+from = "/structure/la-poste/"
 to = "/structures/bureau-de-poste/"
 
 [[redirects]]
-from = "/usagers/index.html"
+from = "/usagers/"
 to = "/autonomie-administrative-aa/"
 
 [[redirects]]
-from = "/agenda/index.html"
+from = "/agenda/"
 to = "/decouvrir-lecosysteme/agenda/"
 
 [[redirects]]
-from = "/agenda/2025/03/index.html"
+from = "/agenda/2025/03/"
 to = "/decouvrir-lecosysteme/agenda/2025/03/"
 
 [[redirects]]
-from = "/aa-moyenne/index.html"
+from = "/aa-moyenne/"
 to = "/autonomie-administrative-aa/aa-moyenne/"
 
 [[redirects]]
-from = "/structure/bureau-de-poste/index.html"
+from = "/structure/bureau-de-poste/"
 to = "/structures/bureau-de-poste/"
 
 [[redirects]]
-from = "/usagers/professionnels/index.html"
+from = "/usagers/professionnels/"
 to = "/publics/professionnels/"
 
 [[redirects]]
-from = "/usagers/situation-de-handicap-ou-perte-dautonomie/index.html"
+from = "/usagers/situation-de-handicap-ou-perte-dautonomie/"
 to = "/publics/situation-de-handicap-ou-perte-dautonomie/"
 
 [[redirects]]
-from = "/activite/sans-mediation/index.html"
+from = "/activite/sans-mediation/"
 to = "/modalites/sans-mediation/"
 
 [[redirects]]
-from = "/structure/association/index.html"
+from = "/structure/association/"
 to = "/structures/association/"
 
 [[redirects]]
-from = "/vehicule/index.html"
+from = "/vehicule/"
 to = "/structures/vehicule/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
+from = "/equipe/equipe-editoriale/"
 to = "/decouvrir-lecosysteme/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/decouvrir-lecosysteme/actualites/"
 
 [[redirects]]
-from = "/structures/bus-france-services/index.html"
+from = "/structures/bus-france-services/"
 to = "/structures/vehicule/"
 
 [[redirects]]
-from = "/bus-france-services/index.html"
+from = "/bus-france-services/"
 to = "/structures/vehicule/"
 
 [[redirects]]
-from = "/structures/france-services-multisites/index.html"
+from = "/structures/france-services-multisites/"
 to = "/structures/multisites/"
 
 [[redirects]]
-from = "/actualites/2022-10-11-lancement-du-lab/index.html"
+from = "/actualites/2022-10-11-lancement-du-lab/"
 to = "/decouvrir-lecosysteme/actualites/2022-10-11-lancement-du-lab/"
 
 [[redirects]]
-from = "/organisations/index.html"
+from = "/organisations/"
 to = "/decouvrir-lecosysteme/organisations/"
 
 [[redirects]]
-from = "/activite/avec-mediation/index.html"
+from = "/activite/avec-mediation/"
 to = "/modalites/avec-mediation/"
 
 [[redirects]]
-from = "/structures/france-services-itinerante/index.html"
+from = "/structures/france-services-itinerante/"
 to = "/structures/itinerante/"
 
 [[redirects]]
-from = "/structures/france-services-fixe/index.html"
+from = "/structures/france-services-fixe/"
 to = "/structures/fixe/"
 
 [[redirects]]
-from = "/activites/index.html"
+from = "/activites/"
 to = "/modalites/"
 
 [[redirects]]
-from = "/activite/en-ligne/index.html"
+from = "/activite/en-ligne/"
 to = "/modalites/en-ligne/"
 
 [[redirects]]
-from = "/autonomie-administrative/autonomie-numerique-faible/index.html"
+from = "/autonomie-administrative/autonomie-numerique-faible/"
 to = "/autonomie-numerique-an/an-faible/"
 
 [[redirects]]
-from = "/formations/index.html"
+from = "/formations/"
 to = "/ressources/formations/"
 
 [[redirects]]
-from = "/connaitre-les-enjeux/deploiement-de-lia-dans-les-territoires-et-collectivites/index.html"
+from = "/connaitre-les-enjeux/deploiement-de-lia-dans-les-territoires-et-collectivites/"
 to = "/connaitre-les-enjeux/technologies/deploiement-de-lia-dans-les-territoires-et-collectivites/"
 
 [[redirects]]
-from = "/equipe/index.html"
+from = "/equipe/"
 to = "/decouvrir-lecosysteme/equipe/"
 
 [[redirects]]
-from = "/usagers/publics-precaires-et-eloignes-des-services-publics/index.html"
+from = "/usagers/publics-precaires-et-eloignes-des-services-publics/"
 to = "/publics/publics-precaires-et-eloignes-des-services-publics/"
 
