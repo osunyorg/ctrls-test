@@ -14,3 +14,307 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/usagers/personnes-agees/index.html"
+to = "/publics/personnes-agees/"
+
+[[redirects]]
+from = "/geographie/rural/index.html"
+to = "/milieu/rural/"
+
+[[redirects]]
+from = "/agenda/2025/12/index.html"
+to = "/decouvrir-lecosysteme/agenda/2025/12/"
+
+[[redirects]]
+from = "/equipe/romane-clement/index.html"
+to = "/decouvrir-lecosysteme/equipe/romane-clement/"
+
+[[redirects]]
+from = "/usagers/enfants-et-jeunes/index.html"
+to = "/publics/enfants-et-jeunes/"
+
+[[redirects]]
+from = "/ressources/indicateurs/innovation-dans-les-usages/index.html"
+to = "/ressources/indicateurs/innovation-dinteret-general/innovation-dans-les-usages/"
+
+[[redirects]]
+from = "/activite/index.html"
+to = "/modalites/"
+
+[[redirects]]
+from = "/autonomie-administrative/index.html"
+to = "/autonomie-administrative-aa/"
+
+[[redirects]]
+from = "/usagers/parentalite/index.html"
+to = "/publics/parentalite/"
+
+[[redirects]]
+from = "/publics/autonomie-numerique-faible/index.html"
+to = "/autonomie-numerique-an/an-faible/"
+
+[[redirects]]
+from = "/ressources/les-methodes/audit/index.html"
+to = "/ressources/les-methodes/les-outils-de-mise-en-oeuvre/audit/"
+
+[[redirects]]
+from = "/ressources/indicateurs/innovation-dans-les-usages/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/index.html"
+to = "/ressources/indicateurs/innovation-dinteret-general/innovation-dans-les-usages/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/"
+
+[[redirects]]
+from = "/geographie/index.html"
+to = "/milieu/"
+
+[[redirects]]
+from = "/audit/index.html"
+to = "/ressources/les-methodes/les-outils-de-mise-en-oeuvre/audit/"
+
+[[redirects]]
+from = "/ressources/les-methodes/atelier-retex/index.html"
+to = "/ressources/les-methodes/les-outils-de-mise-en-oeuvre/atelier-retex/"
+
+[[redirects]]
+from = "/usagers/autonomie-administrative-faible/index.html"
+to = "/autonomie-administrative-aa/aa-faible/"
+
+[[redirects]]
+from = "/usagers/tout-type-de-revenus/index.html"
+to = "/publics/tout-type-de-revenus/"
+
+[[redirects]]
+from = "/structure/mairie/index.html"
+to = "/structures/mairie/"
+
+[[redirects]]
+from = "/ressources/indicateurs/usages-et-utilisations-du-service-par-lagent/perception-subjective/index.html"
+to = "/ressources/indicateurs/utilite/perception-subjective/"
+
+[[redirects]]
+from = "/structures/antenne-france-services/index.html"
+to = "/structures/antenne/"
+
+[[redirects]]
+from = "/activite/hybride-presentiel-et-en-ligne/index.html"
+to = "/modalites/hybride-presentiel-et-en-ligne/"
+
+[[redirects]]
+from = "/autonomie-administrative-aa/autonomie-administrative-faible/index.html"
+to = "/autonomie-administrative-aa/aa-faible/"
+
+[[redirects]]
+from = "/ressources/indicateurs/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/index.html"
+to = "/ressources/indicateurs/innovation-dinteret-general/innovation-dans-les-usages/nombre-de-nouveaux-usages-ou-parcours-crees-et-integres-dans-le-service/"
+
+[[redirects]]
+from = "/adequation-avec-les-objectifs-de-politiques-publiques/index.html"
+to = "/familles-dindicateurs/adequation-avec-les-objectifs-de-politiques-publiques/"
+
+[[redirects]]
+from = "/usagers/revenus-modestes-a-tres-modestes/index.html"
+to = "/publics/revenus-modestes-a-tres-modestes/"
+
+[[redirects]]
+from = "/activite/presentiel/index.html"
+to = "/modalites/presentiel/"
+
+[[redirects]]
+from = "/ressources/indicateurs/usages-et-utilisations-du-service-par-lagent/index.html"
+to = "/ressources/indicateurs/utilite/"
+
+[[redirects]]
+from = "/equipe/florian-guillanton/index.html"
+to = "/decouvrir-lecosysteme/equipe/florian-guillanton/"
+
+[[redirects]]
+from = "/demarches/aide-sociale-a-lenfance-ase/france-services-actualisation-rsa-2/index.html"
+to = "/demarches/aide-sociale-a-lenfance-ase/ase-prevention-1/"
+
+[[redirects]]
+from = "/structure/prefecture/index.html"
+to = "/structures/prefecture/"
+
+[[redirects]]
+from = "/demarches/demarches-1/index.html"
+to = "/demarches-1/"
+
+[[redirects]]
+from = "/structure/maison-france-services/index.html"
+to = "/structures/fixe/"
+
+[[redirects]]
+from = "/publics-precaires-et-eloignes-des-services-publics/index.html"
+to = "/publics/publics-precaires-et-eloignes-des-services-publics/"
+
+[[redirects]]
+from = "/autonomie-numerique-an/autonomie-numerique-faible/index.html"
+to = "/autonomie-numerique-an/an-faible/"
+
+[[redirects]]
+from = "/usagers/proprietaires-occupants/index.html"
+to = "/publics/proprietaires-occupants/"
+
+[[redirects]]
+from = "/activite/avec-rdv/index.html"
+to = "/modalites/avec-rdv/"
+
+[[redirects]]
+from = "/atelier-retex/index.html"
+to = "/ressources/les-methodes/les-outils-de-mise-en-oeuvre/atelier-retex/"
+
+[[redirects]]
+from = "/activite/sans-rdv/index.html"
+to = "/modalites/sans-rdv/"
+
+[[redirects]]
+from = "/agenda/2025/cycle-territoires-et-mobilites-2025-de-lihedate/index.html"
+to = "/decouvrir-lecosysteme/agenda/2025/cycle-territoires-et-mobilites-2025-de-lihedate/"
+
+[[redirects]]
+from = "/indicateurs/index.html"
+to = "/ressources/indicateurs/"
+
+[[redirects]]
+from = "/usagers/proprietaires-bailleurs/index.html"
+to = "/publics/proprietaires-bailleurs/"
+
+[[redirects]]
+from = "/autonomie-administrative-faible/index.html"
+to = "/autonomie-administrative-aa/aa-faible/"
+
+[[redirects]]
+from = "/agenda/2025/index.html"
+to = "/decouvrir-lecosysteme/agenda/2025/"
+
+[[redirects]]
+from = "/usagers/autonomie-numerique-faible/index.html"
+to = "/autonomie-numerique-an/an-faible/"
+
+[[redirects]]
+from = "/publics/autonomie-administrative-faible/index.html"
+to = "/autonomie-administrative-aa/aa-faible/"
+
+[[redirects]]
+from = "/actualites/2022/10/11/lancement-du-lab/index.html"
+to = "/decouvrir-lecosysteme/actualites/2022-10-11-lancement-du-lab/"
+
+[[redirects]]
+from = "/structure/ccas/index.html"
+to = "/structures/ccas/"
+
+[[redirects]]
+from = "/structure/index.html"
+to = "/structures/"
+
+[[redirects]]
+from = "/structure/la-poste/index.html"
+to = "/structures/bureau-de-poste/"
+
+[[redirects]]
+from = "/usagers/index.html"
+to = "/autonomie-administrative-aa/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/decouvrir-lecosysteme/agenda/"
+
+[[redirects]]
+from = "/agenda/2025/03/index.html"
+to = "/decouvrir-lecosysteme/agenda/2025/03/"
+
+[[redirects]]
+from = "/aa-moyenne/index.html"
+to = "/autonomie-administrative-aa/aa-moyenne/"
+
+[[redirects]]
+from = "/structure/bureau-de-poste/index.html"
+to = "/structures/bureau-de-poste/"
+
+[[redirects]]
+from = "/usagers/professionnels/index.html"
+to = "/publics/professionnels/"
+
+[[redirects]]
+from = "/usagers/situation-de-handicap-ou-perte-dautonomie/index.html"
+to = "/publics/situation-de-handicap-ou-perte-dautonomie/"
+
+[[redirects]]
+from = "/activite/sans-mediation/index.html"
+to = "/modalites/sans-mediation/"
+
+[[redirects]]
+from = "/structure/association/index.html"
+to = "/structures/association/"
+
+[[redirects]]
+from = "/vehicule/index.html"
+to = "/structures/vehicule/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/decouvrir-lecosysteme/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/decouvrir-lecosysteme/actualites/"
+
+[[redirects]]
+from = "/structures/bus-france-services/index.html"
+to = "/structures/vehicule/"
+
+[[redirects]]
+from = "/bus-france-services/index.html"
+to = "/structures/vehicule/"
+
+[[redirects]]
+from = "/structures/france-services-multisites/index.html"
+to = "/structures/multisites/"
+
+[[redirects]]
+from = "/actualites/2022-10-11-lancement-du-lab/index.html"
+to = "/decouvrir-lecosysteme/actualites/2022-10-11-lancement-du-lab/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/decouvrir-lecosysteme/organisations/"
+
+[[redirects]]
+from = "/activite/avec-mediation/index.html"
+to = "/modalites/avec-mediation/"
+
+[[redirects]]
+from = "/structures/france-services-itinerante/index.html"
+to = "/structures/itinerante/"
+
+[[redirects]]
+from = "/structures/france-services-fixe/index.html"
+to = "/structures/fixe/"
+
+[[redirects]]
+from = "/activites/index.html"
+to = "/modalites/"
+
+[[redirects]]
+from = "/activite/en-ligne/index.html"
+to = "/modalites/en-ligne/"
+
+[[redirects]]
+from = "/autonomie-administrative/autonomie-numerique-faible/index.html"
+to = "/autonomie-numerique-an/an-faible/"
+
+[[redirects]]
+from = "/formations/index.html"
+to = "/ressources/formations/"
+
+[[redirects]]
+from = "/connaitre-les-enjeux/deploiement-de-lia-dans-les-territoires-et-collectivites/index.html"
+to = "/connaitre-les-enjeux/technologies/deploiement-de-lia-dans-les-territoires-et-collectivites/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/decouvrir-lecosysteme/equipe/"
+
+[[redirects]]
+from = "/usagers/publics-precaires-et-eloignes-des-services-publics/index.html"
+to = "/publics/publics-precaires-et-eloignes-des-services-publics/"
+
